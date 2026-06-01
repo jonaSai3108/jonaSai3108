@@ -1,35 +1,37 @@
-<!-- Banner Principal con Animación -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF00&height=250&section=header&text=Noe%20Yonathan%20Xicara%20Say&fontSize=50&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62" width="100%" />
+<!-- Banner Principal con Animación Degradado Cyber-Sakura -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF00,100:FFC0CB&height=250&section=header&text=Noe%20Yonathan%20Xicara%20Say&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62" width="100%" />
 
 <div align="center">
   <h3>Namaste 🙏 I'm Yonathan Say</h3>
   
   <!-- Animación de escritura tipo Terminal / Hacker -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=>_++System.out.println(%22Hello+World%22);>_+Profesorado+en+Psicolog%C3%ADa;>_+Desarrollador+Junior+%7C+SISAP;>_+Docente+%26+Tech+Enthusiast;>_+Accessing+mainframe..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFC0CB&background=00000000&center=true&vCenter=true&width=600&lines=>_++System.out.println(%22Hello+World%22);>_+Profesorado+en+Psicolog%C3%ADa;>_+Desarrollador+Junior+%7C+SISAP;>_+Docente+%26+Tech+Enthusiast;>_+Accessing+mainframe..." alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 💫 About Me
+### 🌸 <samp>// Sobre Mí: Sakura Protocol Active</samp>
 
 <div align="center">
   <a href="https://github.com/jonaSai3108">
-    <img src="https://komarev.com/ghpvc/?username=jonaSai3108&label=Profile%20Views&color=00FF00&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=jonaSai3108&label=Profile%20Views&color=FFC0CB&style=flat" alt="Profile Views" />
   </a>
 </div>
 
 <br>
 
-<table width="100%">
+<!-- Sección About Me Estilizada con Sakura cayendo -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="65%">
+    <!-- Columna de Texto -->
+    <td width="60%" valign="top">
       <ul>
-        <li>🎓 <b>Profesorado en Enseñanza Media en Psicología</b>.</li>
-        <li>📜 Certificaciones: <b>Desarrollador Junior</b> y <b>SISAP</b>.</li>
+        <li>🎓 <b>Profesorado en Enseñanza Media en Psicología</b>. <!-- --></li>
+        <li>📜 Certificaciones: <b>Desarrollador Junior</b> y <b>SISAP</b>. <!-- --></li>
         <li>🎓 Estudiante de Desarrollo de Software Técnico (5to semestre) en la <b>Universidad Mesoamericana</b>, Quetzaltenango. <!-- --></li>
-        <li>💻 Actualmente trabajando como <b>Docente</b> en el área de Computación, compartiendo y aplicando conocimiento técnico.</li>
+        <li>💻 Actualmente trabajando como <b>Docente</b> en el área de Computación, compartiendo y aplicando conocimiento técnico. <!-- --></li>
         <li>🖨️ Manejo un emprendimiento local de impresiones a domicilio en Quetzaltenango. <!-- --></li>
         <li>🛠️ Experiencia sólida en <b>Mobile (Flutter/Dart)</b> y <b>Backend (Python/Flask)</b>. <!-- --></li>
         <li>🔒 Apasionado por la <b>Ciberseguridad</b>: Hacking ético, auditoría de sistemas, prevención de DDoS y mitigación SQLi. <!-- --></li>
@@ -37,9 +39,11 @@
         <li>🏃‍♂️ Fuera de la terminal: Entrenando duro para el medio maratón de Totonicapán, fan del anime, y escuchando buen Lo-Fi o Shoegaze. <!-- --></li>
       </ul>
     </td>
-    <td width="35%" align="center">
-      <!-- GIF animado estilo Hacker/Binary más tecnológico -->
-      <img src="https://media.giphy.com/media/3oKIPnAiaCRIGq2Umc/giphy.gif" width="100%" alt="Matrix Hacker Animation" style="border-radius: 10px;" />
+    <!-- Columna Dinámica: Animación de Sakura cayendo (Estilo Pixel/Tech) -->
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5cXU0am9kN2V5YjF4Y2dtbzJ0M2d5NmFpY3V5Y3V5Y3V5Y3V5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jX7kKq4R6V6XyM/giphy.gif" width="100%" alt="Falling Sakura Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255,192,203,0.5);" />
+      <br>
+      <samp><i><font color="#FFC0CB">🌸 SAKURA.EXE loading... 🌸</font></i></samp>
     </td>
   </tr>
 </table>
@@ -55,7 +59,7 @@
 ### 📚 Languages & Tools I Have Placed My Hands On
 
 <div align="center">
-  <!-- Se ha añadido 'js' (JavaScript) al stack de herramientas -->
+  <!-- Stack de iconos optimizado -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,mongodb,docker,linux,bash,git,github,postman,vscode,js&perline=7" alt="Tech Stack" />
   </a>
@@ -93,7 +97,7 @@
       <b>Proyecto Destacado: Reloj Binario</b><br><br>
       <i>Desarrollo de un reloj funcional en formato binario estructurado e implementado con JavaScript.</i>
       <br><br>
-      <!-- Tarjeta actualizada apuntando a Proyecto-Reloj-Binario -->
+      <!-- Tarjeta apuntando a Proyecto-Reloj-Binario -->
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaSai3108&repo=Proyecto-Reloj-Binario&theme=matrix&hide_border=true&bg_color=0D1117" alt="Reloj Binario Repo" />
     </td>
     <td width="50%" align="center">
@@ -105,5 +109,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:00FF00,100:0D1117&height=100&section=footer" width="100%" />
 </div>
